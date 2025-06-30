@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "a0-project",
+    "slug": "snack-37054c4f-01a2-4d47-93f8-21fa70529560",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.dextert.snack37054c4f01a24d4793f821fa70529560"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Quickly generate React Native components with AI",
+    "extra": {
+      "eas": {
+        "projectId": "851574e2-64f4-419b-b34d-c4da51d00f77"
+      }
+    }
+  }
+}
